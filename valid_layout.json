@@ -1,0 +1,256 @@
+{
+  "Columns": [
+    {
+      "Name": "FIRST_NAME",
+      "Datatype": "String",
+      "ColNo": 8,
+	  "length":25
+    },
+	    {
+      "Name": "LAST_NAME",
+      "Datatype": "Integer",
+      "ColNo": 9,
+	  "length":25
+    },
+	    {
+      "Name": "MIDDLE_NAME",
+      "Datatype": "String",
+      "ColNo": 10,
+	  "length":25
+    },
+    {
+      "Name": "NAME_PREFIX",
+      "Datatype": "String",
+      "ColNo": 11,
+	  "length":30
+    },
+    {
+      "Name": "NAME_SUFFIX",
+      "Datatype": "String",
+      "ColNo": 12,
+	  "length":30
+    },
+	{
+      "Name": "GENDER",
+      "Datatype": "String",
+      "ColNo": 8,
+	  "length":4
+    },
+	    {
+      "Name": "DOB",
+      "Datatype": "Integer",
+      "ColNo": 9,
+	  "length":10
+    },
+	{
+      "Name": "ADDR_LINE_1",
+      "Datatype": "String",
+      "ColNo": 8,
+	  "length":50
+    },
+	    {
+      "Name": "ADDR_LINE_2",
+      "Datatype": "Integer",
+      "ColNo": 9,
+	  "length":50
+    },
+	    {
+      "Name": "CITY",
+      "Datatype": "String",
+      "ColNo": 10,
+	  "length":50
+    },
+    {
+      "Name": "STATE",
+      "Datatype": "String",
+      "ColNo": 11,
+	  "length":20
+    },
+    {
+      "Name": "ZIP",
+      "Datatype": "String",
+      "ColNo": 12,
+	  "length":19
+    },
+	{
+      "Name": "ZIP4",
+      "Datatype": "String",
+      "ColNo": 8,
+	  "length":4
+    },
+	    {
+      "Name": "COUNTRY",
+      "Datatype": "Integer",
+      "ColNo": 9,
+	  "length":128
+    },
+	    {
+      "Name": "EMAIL",
+      "Datatype": "String",
+      "ColNo": 10,
+	  "length":50
+    },
+    {
+      "Name": "HOME_PHONE",
+      "Datatype": "String",
+      "ColNo": 11,
+	  "length":25
+    },
+    {
+      "Name": "WORK_PHONE",
+      "Datatype": "String",
+      "ColNo": 12,
+	  "length":25
+    },
+	{
+      "Name": "CELL_PHONE",
+      "Datatype": "String",
+      "ColNo": 8,
+	  "length":25
+    },
+	    {
+      "Name": "COMPANY",
+      "Datatype": "Integer",
+      "ColNo": 9,
+	  "length":50
+    },
+	    {
+      "Name": "DIVISION",
+      "Datatype": "String",
+      "ColNo": 10,
+	  "length":60
+    },
+    {
+      "Name": "SRC_CUST_NO",
+      "Datatype": "String",
+      "ColNo": 11,
+	  "length":12
+    },
+	{
+      "Name": "MISC_01",
+      "Datatype": "String",
+      "ColNo": 8,
+	  "length":30
+    },
+	    {
+      "Name": "MISC_02",
+      "Datatype": "Integer",
+      "ColNo": 9,
+	  "length":30
+    },
+	    {
+      "Name": "MISC_03",
+      "Datatype": "String",
+      "ColNo": 10,
+	  "length":30
+    },
+    {
+      "Name": "MISC_04",
+      "Datatype": "String",
+      "ColNo": 11,
+	  "length":30
+    },
+    {
+      "Name": "MISC_05",
+      "Datatype": "String",
+      "ColNo": 12,
+	  "length":17
+    },
+	{
+      "Name": "MISC_06",
+      "Datatype": "String",
+      "ColNo": 8,
+	  "length":100
+    },
+	    {
+      "Name": "MISC_07",
+      "Datatype": "Integer",
+      "ColNo": 9,
+	  "length":100
+    },
+	    {
+      "Name": "MISC_08",
+      "Datatype": "String",
+      "ColNo": 10,
+	  "length":100
+    },
+    {
+      "Name": "MISC_09",
+      "Datatype": "String",
+      "ColNo": 11,
+	  "length":100
+    },
+    {
+      "Name": "MISC_10",
+      "Datatype": "String",
+      "ColNo": 12,
+	  "length":100
+    },
+	{
+      "Name": "MISC_11",
+      "Datatype": "String",
+      "ColNo": 8,
+	  "length":100
+    },
+	    {
+      "Name": "MISC_12",
+      "Datatype": "Integer",
+      "ColNo": 9,
+	  "length":100
+    },
+	    {
+      "Name": "MISC_13",
+      "Datatype": "String",
+      "ColNo": 10,
+	  "length":100
+    },
+    {
+      "Name": "MISC_14",
+      "Datatype": "String",
+      "ColNo": 11,
+	  "length":100
+    },
+    {
+      "Name": "MISC_15",
+      "Datatype": "String",
+      "ColNo": 12,
+	  "length":100
+    },
+	{
+      "Name": "MISC_16",
+      "Datatype": "String",
+      "ColNo": 8,
+	  "length":100
+    },
+	    {
+      "Name": "MISC_17",
+      "Datatype": "Integer",
+      "ColNo": 9,
+	  "length":100
+    },
+	    {
+      "Name": "MISC_18",
+      "Datatype": "String",
+      "ColNo": 10,
+	  "length":100
+    },
+    {
+      "Name": "MISC_19",
+      "Datatype": "String",
+      "ColNo": 11,
+	  "length":100
+    },
+	 {
+      "Name": "MISC_20",
+      "Datatype": "String",
+      "ColNo": 12,
+	  "length":100
+    },
+    {
+      "Name": "CREATED_DATE",
+      "Datatype": "String",
+      "ColNo": 12,
+	  "length":50
+    }
+  ]
+}
